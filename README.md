@@ -95,3 +95,61 @@ A 1 2|||Verb:Tense|||went|||REQUIRED|||-NONE-|||0
 ## Examples
 
 See the `docs/` directory for detailed examples and Jupyter notebooks demonstrating usage.
+
+
+Please cite the jp-errant-bea system:
+```
+@inproceedings{qiu-etal-2025-multilingual,
+    title = "Multilingual Grammatical Error Annotation: Combining Language-Agnostic Framework with Language-Specific Flexibility",
+    author = "Qiu, Mengyang  and
+      Nguyen, Tran Minh  and
+      Huang, Zihao  and
+      Li, Zelong  and
+      Gu, Yang  and
+      Gao, Qingyu  and
+      Liu, Siliang  and
+      Park, Jungyeul",
+    editor = {Kochmar, Ekaterina  and
+      Alhafni, Bashar  and
+      Bexte, Marie  and
+      Burstein, Jill  and
+      Horbach, Andrea  and
+      Laarmann-Quante, Ronja  and
+      Tack, Ana{\"i}s  and
+      Yaneva, Victoria  and
+      Yuan, Zheng},
+    booktitle = "Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.bea-1.15/",
+    pages = "202--212",
+    ISBN = "979-8-89176-270-1",
+}
+```
+
+For the original jp-errnat:
+```
+@inproceedings{wang-etal-2025-refined,
+    title = "Refined Evaluation for End-to-End Grammatical Error Correction Using an Alignment-Based Approach",
+    author = "Wang, Junrui  and
+      Qiu, Mengyang  and
+      Gu, Yang  and
+      Huang, Zihao  and
+      Park, Jungyeul",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-main.52/",
+    pages = "774--785",
+}
+```
