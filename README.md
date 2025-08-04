@@ -96,6 +96,7 @@ A 1 2|||Verb:Tense|||went|||REQUIRED|||-NONE-|||0
 
 See the `docs/` directory for detailed examples and Jupyter notebooks demonstrating usage.
 
+## Citation
 
 Please cite the jp-errant-bea system:
 ```
